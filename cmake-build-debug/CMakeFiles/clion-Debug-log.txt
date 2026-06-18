@@ -1,0 +1,10 @@
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/Rodrigo D SantaMaria/AppData/Local/Programs/CLion 2025.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\Rodrigo D SantaMaria\Documents\gastos_personales_patrones_cpp20" -B "C:\Users\Rodrigo D SantaMaria\Documents\gastos_personales_patrones_cpp20\cmake-build-debug"
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Users/Rodrigo D SantaMaria/AppData/Local/Programs/CLion 2025.2/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (7.9s)
+-- Generating done (0.2s)
+-- Build files have been written to: C:/Users/Rodrigo D SantaMaria/Documents/gastos_personales_patrones_cpp20/cmake-build-debug
